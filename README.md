@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
-<h1 align="center">Hi 👋, I'm Tushar Shelke,</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">A dedicated Full Stack Web developer with a specialized skill set that enables me to build robust web applications. I am adept in both front-end and back-end operations and have an eye for performance and accuracy. I am proficient in HTML, JavaScript, CSS, and MERN Stack.
 I am adaptable, efficient during remote collaboration, and am committed to achieving organizational goals. With a knack for analytics, I am passionate about solving algorithmic problems, and have a good grasp over data structures.
 During my leisure times, I love to travel and explore places and travel</h3>
