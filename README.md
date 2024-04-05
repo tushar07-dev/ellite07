@@ -11,17 +11,17 @@
 
 - 📫 How to reach me **shelketushar100@gmail.com**
 
-- 📄 Know about my experiences by My <a href="https://tushar-portfolio-06.netlify.app/" target="blank">PORTFOLIO </a>
+- 📄 Know about my experiences by My <a href="https://tushar-portfolio-06.netlify.app/"   target="_blank">PORTFOLIO </a>
 
-- 📜 My <a href="https://drive.google.com/file/d/1NRRIBqQ4YWG-Q-yOxgPpPXNg9UZfkbeD/view?usp=sharing" target="_blank">RESUME </a>
+- 📜 My <a href="https://drive.google.com/file/d/1NRRIBqQ4YWG-Q-yOxgPpPXNg9UZfkbeD/view?usp=sharing"  target="_blank">RESUME </a>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shelketushar100@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shelketushar100@gmail.com" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shelketushar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar shelke" height="30" width="40" /></a>
-<a href="https://fb.com/tushar shelke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar shelke" height="30" width="40" /></a>
-<a href="https://instagram.com/ellite_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar07-dev" height="30" width="40" /></a>
+<a href="https://twitter.com/shelketushar100@gmail.com"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shelketushar100@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shelketushar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar shelke" height="30" width="40" /></a>
+<a href="https://fb.com/tushar shelke" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar shelke" height="30" width="40" /></a>
+<a href="https://instagram.com/ellite_07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar07-dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
