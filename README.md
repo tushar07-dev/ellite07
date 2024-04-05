@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences by My <a href="https://tushar-portfolio-06.netlify.app/" target="blank">PORTFOLIO </a>
 
-- 📜 My <a href="https://drive.google.com/file/d/1d6Lj8hjiSdBslj81odgwvvtviPa8Qt02/view?usp=sharing" target="blank">RESUME </a>
+- 📜 My <a href="https://drive.google.com/file/d/1NRRIBqQ4YWG-Q-yOxgPpPXNg9UZfkbeD/view?usp=sharing" target="blank">RESUME </a>
 
 
 <h3 align="left">Connect with me:</h3>
