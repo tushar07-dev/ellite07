@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shelketushar100@gmail.com**
 
-- 📄 Know about my experiences by My <a href="https://tushar-portfolio-06.netlify.app/"   target="_blank">PORTFOLIO </a>
+- 📄 Know about my experiences by My <a href="https://tushar-shelke-portfolio-07-e1t308468-ellite07s-projects.vercel.app/"   target="_blank">PORTFOLIO </a>
 
 - 📜 My <a href="https://drive.google.com/file/d/1NRRIBqQ4YWG-Q-yOxgPpPXNg9UZfkbeD/view?usp=sharing"  target="_blank" rel="noopener noreferrer" >RESUME </a>
 
