@@ -7,7 +7,7 @@
 
 **PROJECTS**
 
-- 🌱 I’m currently learning **React & Express**
+- 🌱 Experienced  **React & Express**
 
 - 📫 How to reach me **shelketushar100@gmail.com**
 
