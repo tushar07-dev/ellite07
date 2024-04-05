@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
-<h1 align="center">Hi 👋,</h1>
-<h3 align="center">Experienced MERN Stack Developer with 1.5 years of expertise in building scalable web applications. Proficient in MongoDB, Express.js, React.js, and Node.js, committed to delivering high-quality solutions through collaborative teamwork.</h3>
+<h1 align="center">Hello, meet Tushar</h1>
+<h3 align="center">An Experienced MERN Stack Developer with 1.5 years of expertise in building scalable web applications. Proficient in MongoDB, Express.js, React.js, and Node.js, committed to delivering high-quality solutions through collaborative teamwork.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
