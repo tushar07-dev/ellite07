@@ -1,9 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
 <h1 align="center">Hi 👋,</h1>
-<h3 align="center">A dedicated Full Stack Web developer with a specialized skill set that enables me to build robust web applications. I am adept in both front-end and back-end operations and have an eye for performance and accuracy. I am proficient in HTML, JavaScript, CSS, and MERN Stack.
-I am adaptable, efficient during remote collaboration, and am committed to achieving organizational goals. With a knack for analytics, I am passionate about solving algorithmic problems, and have a good grasp over data structures.
-During my leisure times, I love to travel and explore places and travel</h3>
+<h3 align="center">Experienced MERN Stack Developer with 1.5 years of expertise in building scalable web applications. Proficient in MongoDB, Express.js, React.js, and Node.js, committed to delivering high-quality solutions through collaborative teamwork.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
